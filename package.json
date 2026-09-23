@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-quiz-bot",
+  "version": "3.0.0",
+  "description": "Bot WhatsApp de quiz avec 9039 questions, tirage sans répétition et gestion avancée",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "7.0.0-rc14",
+    "pino": "^9.0.0"
+  }
+}
